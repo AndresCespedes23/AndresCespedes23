@@ -9,17 +9,18 @@
 <h3 align="center">Languages:</h3>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="70" height="70"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="70" height="70"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70">
+  <img src="https://www.fast-report.com/uploads/blogpost/json/logo_JSON.PNG" width="70" height="70">
 </p>
 
 <h3 align="center">Frameworks:</h3>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://www.cuatromedios.com/media/iaxibFJ21u/logo/node-white.png" width="70" height="70">
+  <img src="https://pipedream.com/s.v0/app_XywhLL/logo/orig" width="70" height="70">
+  <img src="https://i.altapps.net/icons/expressjs-0c5e2.png" width="70" height="70">
+  <img src="https://images.opencollective.com/frontendmasters/0b9cda4/logo/256.png" width="70" height="70">
 </p>
 
 <h3 align="center">Database:</h3>
@@ -29,7 +30,18 @@
 
 <h3 align="center">Tools:</h3> 
 <p align="center"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://pic.clubic.com/v1/images/1506201/raw" width="70" height="70">
+  <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" width="70" height="70">
+  <img src="https://seeklogo.com/images/E/eslint-logo-DDFB6EBCF6-seeklogo.com.png" width="70" height="70">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="70" height="70"> 
+</p>
+
+<h3 align="center">Teamwork:</h3> 
+<p align="center"> 
+  <img src="https://j2logo.com/wp-content/uploads/slack-logo.png" width="70" height="70">
+  <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" width="70" height="70">
+  <img src="https://cdn.worldvectorlogo.com/logos/zoom-app.svg" width="70" height="70">
+  <img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" width="70" height="70">
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="70" height="70">
 </p>
