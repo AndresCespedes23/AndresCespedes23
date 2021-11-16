@@ -19,7 +19,7 @@
   <img src="https://www.cuatromedios.com/media/iaxibFJ21u/logo/node-white.png" width="70" height="70">
   <img src="https://pipedream.com/s.v0/app_XywhLL/logo/orig" width="70" height="70">
   <img src="https://i.altapps.net/icons/expressjs-0c5e2.png" width="70" height="70">
-  <img src="https://images.opencollective.com/frontendmasters/0b9cda4/logo/256.png" width="70" height="70">
+  <img src="https://tsed.io/mongoose.png" width="80" height="70">
 </p>
 
 <h3 align="center">Database:</h3>
