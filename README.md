@@ -17,14 +17,16 @@
 <h3 align="center">Frameworks:</h3>
 <p align="center"> 
   <img src="https://www.cuatromedios.com/media/iaxibFJ21u/logo/node-white.png" width="70" height="70">
-  <img src="https://pipedream.com/s.v0/app_XywhLL/logo/orig" width="70" height="70">
-  <img src="https://i.altapps.net/icons/expressjs-0c5e2.png" width="70" height="70">
-  <img src="https://tsed.io/mongoose.png" width="80" height="70">
 </p>
 
 <h3 align="center">Database:</h3>
 <p align="center"> 
   <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white height="40">
+</p>
+
+<h3 align="center">Cloud:</h3>
+<p align="center"> 
+  <img src="https://manzanit0.gallerycdn.vsassets.io/extensions/manzanit0/heroku-vscode/0.3.0/1590949018168/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="70">
 </p>
 
 <h3 align="center">Tools:</h3> 
