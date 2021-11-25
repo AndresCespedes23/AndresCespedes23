@@ -12,14 +12,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png"> 
 </p>
 
-
-
 <h3 align="center">Tools:</h3> 
 <p align="center"> 
   <img src="https://pic.clubic.com/v1/images/1506201/raw" width="70" height="70">
   <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" width="70" height="70">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="70" height="70"> 
 </p>
 
 
