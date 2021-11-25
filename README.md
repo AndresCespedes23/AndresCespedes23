@@ -6,37 +6,23 @@
 - 📫 How to reach me **andres.pablo.cespedes@gmail.com**
 
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Tech:</h3>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="70" height="70"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="70" height="70"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png"> 
 </p>
 
-<h3 align="center">Frameworks:</h3>
-<p align="center"> 
-  <img src="https://www.cuatromedios.com/media/iaxibFJ21u/logo/node-white.png" width="70" height="70">
-</p>
 
-<h3 align="center">Database:</h3>
-<p align="center"> 
-  <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white height="40">
-</p>
-
-<h3 align="center">Cloud:</h3>
-<p align="center"> 
-  <img src="https://manzanit0.gallerycdn.vsassets.io/extensions/manzanit0/heroku-vscode/0.3.0/1590949018168/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="70">
-</p>
 
 <h3 align="center">Tools:</h3> 
 <p align="center"> 
   <img src="https://pic.clubic.com/v1/images/1506201/raw" width="70" height="70">
   <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" width="70" height="70">
-  <img src="https://seeklogo.com/images/E/eslint-logo-DDFB6EBCF6-seeklogo.com.png" width="70" height="70">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="70" height="70"> 
 </p>
+
+
 
 <h3 align="center">Teamwork:</h3> 
 <p align="center"> 
