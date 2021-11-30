@@ -23,6 +23,10 @@
   <img src="https://pic.clubic.com/v1/images/1506201/raw" width="70" height="70">
 </p>
 
+<h3 align="center">OS:</h3> 
+<p align="center"> 
+  <img src="https://icon-library.com/images/png-to-icon-windows-10/png-to-icon-windows-10-10.jpg" width="70" height="70"> 
+</p>
 
 <h3 align="center">Teamwork:</h3> 
 <p align="center"> 
