@@ -6,7 +6,7 @@
 - 📫 How to reach me **andres.pablo.cespedes@gmail.com**
 
 
-<h3 align="center">Tech:</h3>
+<h3 align="center">Stack:</h3>
 
 <p align="center"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png"> 
