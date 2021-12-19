@@ -12,11 +12,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png"> 
 </p>
 
-<h3 align="center">Deployment:</h3>
-<p align="center"> 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" width="70" height="70"> 
-</p>
-
 <h3 align="center">Text editor & Version control:</h3> 
 <p align="center"> 
   <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" width="70" height="70">
