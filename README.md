@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Céspedes</h1>
-<h3 align="center">A Jr. software developer from Argentina</h3>
+<h3 align="center">A Jr. Javascript developer from Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndresCespedes23?tab=repositories](https://github.com/AndresCespedes23?tab=repositories)
 
