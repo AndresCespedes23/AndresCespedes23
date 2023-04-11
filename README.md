@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndresCespedes23?tab=repositories](https://github.com/AndresCespedes23?tab=repositories)
 
-- 📫 How to reach me **andres.pablo.cespedes@gmail.com**
+- 📫 Reach me **andres@prologsis.com.ar**
 
 - 🚀 You can check out my portfolio at https://devpedes.vercel.app/
 
