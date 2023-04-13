@@ -104,7 +104,9 @@
       </a>
     </td>
  </tr>
- 
-![Andres's github stats]https://github-readme-stats.vercel.app/api?username=andrescespedes23&show_icons=true&locale=en&theme=gotham)
-
+ <tr>
+  <td>
+   ![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andrescespedes23&show_icons=true&locale=en&theme=gotham)
+  </td>
+ </tr>
 </table>
