@@ -107,5 +107,5 @@
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andrescespedes23&show_icons=true&locale=en&theme=gotham" alt="andrescespedes23"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndresCespedes23&theme=android-dark&mode=weekly)](https://git.io/streak-stats)
 </div>
