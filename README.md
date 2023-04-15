@@ -107,5 +107,5 @@
 </table>
 
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndresCespedes23&theme=android-dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndresCespedes23&theme=android-dark&mode=weekly)]
 </div>
